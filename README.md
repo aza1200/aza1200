@@ -11,8 +11,16 @@
   ● aza1200@naver.com   
   ● tigere0723@gmail.com   
 
+<hr>
+
 ## Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aza1200)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=aza1200&theme=react&show_icons=true" height="180px">
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aza1200&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
+</a>
+  
 
 ## Algorithm Site Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aza1200)](https://solved.ac/aza1200/)
