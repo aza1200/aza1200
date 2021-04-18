@@ -1,10 +1,11 @@
 ## About Me 
   ● [Tistory](https://2umgee.tistory.com/)  
-  ● [Instagram](https://www.instagram.com/brother_again/)
-
+  ● <a href="https://www.instagram.com/brother_again/"><img src = "https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico" width="18px" height="18px"></a> [Instagram](https://www.instagram.com/brother_again/)
+  
 ### Algorithm Site Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aza1200)](https://solved.ac/aza1200/)
 
+<!--<img src = "https://example.com/sampleImg.png" width="400px"> -->
 
 <!--
 **aza1200/aza1200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
