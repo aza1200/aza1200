@@ -1,6 +1,6 @@
 ## Skills
   ● Language   : Python,C++,C,JavaScript    
-  ● FrameWork  : Learning Django    
+  ● FrameWork  : Django    
 
 ## About Me 
   ●  <a href="https://2umgee.tistory.com/"><img src = "https://t1.daumcdn.net/tistory_admin/static/top/favicon_0630.ico" width="18px" height="18px"></a> [Tistory](https://2umgee.tistory.com/)  
