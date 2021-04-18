@@ -11,7 +11,10 @@
   ● aza1200@naver.com   
   ● tigere0723@gmail.com   
 
-### Algorithm Site Tier
+## Github Stats
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aza1200)](https://github.com/anuraghazra/github-readme-stats)
+
+## Algorithm Site Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aza1200)](https://solved.ac/aza1200/)
 
 
