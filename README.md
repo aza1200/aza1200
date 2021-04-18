@@ -1,4 +1,5 @@
-## Contact  
+## About Me 
+  ● [Tistory](https://2umgee.tistory.com/)  
   ● [Instagram](https://www.instagram.com/brother_again/)
 
 ### Algorithm Site Tier
