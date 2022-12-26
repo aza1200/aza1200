@@ -5,8 +5,6 @@
 
 ## About Me 
   ●  <a href="https://2umgee.tistory.com/"><img src = "https://t1.daumcdn.net/tistory_admin/static/top/favicon_0630.ico" width="18px" height="18px"></a> [Tistory](https://2umgee.tistory.com/)  
-  ●  <a href="https://www.instagram.com/brother_again/"><img src = "https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico" width="18px" height="18px"></a>  [Instagram](https://www.instagram.com/brother_again/)    
-  ●  <a href="https://www.facebook.com/profile.php?id=100010520119358"><img src = "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" width="18px" height="18px"></a>  [Facebook](https://www.facebook.com/profile.php?id=100010520119358/) 
 
 ## Contact
   ● aza1200@naver.com   
